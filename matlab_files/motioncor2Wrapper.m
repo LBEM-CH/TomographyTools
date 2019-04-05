@@ -1,4 +1,4 @@
-% Motioncor2 wrapper (Stefano Scaramuzza 2018, stefano.scaramuzza@unibas.ch)
+% Motioncor2 wrapper (Stefano Scaramuzza 2018, stefano.scaramuzza at unibas.ch)
 %
 % This function runs motioncor2. The path to the motioncor2 executable on your computer has to be changed below.
 % Everything else should not be changed.

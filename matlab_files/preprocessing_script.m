@@ -1,4 +1,4 @@
-% Preprocessing script (Stefano Scaramuzza, 2018, stefano.scaramuzza@unibas.ch)
+% Preprocessing script (Stefano Scaramuzza, 2018, stefano.scaramuzza at unibas.ch)
 %
 % This matlab script does:
 % - motion correction using motioncor2Wrapper.m

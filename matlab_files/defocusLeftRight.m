@@ -1,4 +1,4 @@
-% This function estimates the defocus on the left and right side of images in tomographic tilt series (Stefano Scaramuzza, 2018, stefano.scaramuzza@unibas.ch)
+% This function estimates the defocus on the left and right side of images in tomographic tilt series (Stefano Scaramuzza, 2018, stefano.scaramuzza at unibas.ch)
 %
 % It requires Dynamo installed (www.dynamo-em.org, Castaño-Díez et al.,2018) and the function ctffind4Wrapper.m
 %

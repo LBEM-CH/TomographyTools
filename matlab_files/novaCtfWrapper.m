@@ -1,4 +1,4 @@
-% Wrapper for novactf (Stefano Scaramuzza, 2018, stefano.scaramuzza@unibas.ch)
+% Wrapper for novactf (Stefano Scaramuzza, 2018, stefano.scaramuzza at unibas.ch)
 %
 % This is function runs novactf
 %

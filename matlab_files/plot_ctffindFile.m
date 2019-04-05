@@ -1,5 +1,5 @@
 % Plot the ctffind4 (http://grigoriefflab.janelia.org/ctffind4, Rohou et
-% al., 2015) output diagnostic file (with the ending '_diag.txt') (Stefano Scaramuzza, 2018, stefano.scaramuzza@unibas.ch)
+% al., 2015) output diagnostic file (with the ending '_diag.txt') (Stefano Scaramuzza, 2018, stefano.scaramuzza at unibas.ch)
 %
 % Example:
 % plot_ctffindFile('b001ts022_UW_Crop_diag.txt')

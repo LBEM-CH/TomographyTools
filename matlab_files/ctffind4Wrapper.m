@@ -1,4 +1,4 @@
-% Ctffind4 4.1.4 wrapper (Stefano Scaramuzza, 2018, stefano.scaramuzza@unibas.ch)
+% Ctffind4 4.1.4 wrapper (Stefano Scaramuzza, 2018, stefano.scaramuzza at unibas.ch)
 %
 % This is a matlab function that runs Ctffind4. The path to the Ctffind4 executable on your computer has to be changed below.
 % Everything else should not be changed.

@@ -1,4 +1,4 @@
-% This function transform ctffind4 txt output to imod compatible defocus file (Stefano Scaramuzza, 2018, stefano.scaramuzza@unibas.ch)
+% This function transform ctffind4 txt output to imod compatible defocus file (Stefano Scaramuzza, 2018, stefano.scaramuzza at unibas.ch)
 %
 % Don’t change anything here.
 % It requires Dynamo installed (www.dynamo-em.org, Castaño-Díez et al., 2018).
