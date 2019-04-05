@@ -13,4 +13,5 @@ applyExposureFilter.m   (dose weighting)
 
 
 The code is distributed under the GPL v.3 license and comes without any warranty. Feedback is always welcome.
+(Stefano Scaramuzza, stefano.scaramuzza@unibas.ch)
 </pre>
