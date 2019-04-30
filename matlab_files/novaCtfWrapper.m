@@ -1,6 +1,6 @@
 % Wrapper for novactf (Stefano Scaramuzza, 2018, stefano.scaramuzza at unibas.ch)
 %
-% This is function runs novactf
+% This matlab function runs novactf.
 %
 % It requires novactf (https://github.com/turonova/novaCTF, Turoňová et al., 2017) and Dynamo installed (www.dynamo-em.org, Castaño-Díez et al., 2018).
 % 
